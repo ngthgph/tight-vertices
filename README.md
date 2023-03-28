@@ -5,7 +5,8 @@ Original Problem:
 
 Quiz 7
 A13
-Cho đồ thị vô hướng liên thông . Ta gọi đỉnh sÎV là đỉnh “thắt” của cặp đỉnh u, vÎV nếu mọi đường đi từ u đến v đều phải qua s. Dựa vào thuật toán duyệt theo chiều sâu (DFS), hãy tìm tất cả các đỉnh thắt của cặp đỉnh u=1,v=13 trên đồ thị G được biểu diễn dưới dạng danh sách kề dưới đây:
+Cho đồ thị vô hướng liên thông . Ta gọi đỉnh s là đỉnh “thắt” của cặp đỉnh u, v nếu mọi đường đi từ u đến v đều phải qua s. Dựa vào thuật toán duyệt theo chiều sâu (DFS), hãy tìm tất cả các đỉnh thắt của cặp đỉnh u=1,v=13 trên đồ thị G được biểu diễn dưới dạng danh sách kề dưới đây:
+
 Ke(1) = { 2, 3, 4}.
 Ke(5) = {3, 6, 7, 8, 12}.	
 Ke(9) = {10, 11, 13}.
